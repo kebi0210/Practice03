@@ -20,8 +20,8 @@ public class AccountApp {
             System.out.print("선택>");
             
             int menuNo = sc.nextInt();
-            
-            switch(menuNo){
+           
+			switch(menuNo){
             
                 case 1:
                     System.out.print("예금액>");

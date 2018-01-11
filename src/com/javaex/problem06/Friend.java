@@ -8,6 +8,16 @@ public class Friend {
 
     
     //필요한 메소드 작성
+    public void Friedn() {
+    	
+    }
+    
+    
+    public Friend(String name, String hp, String school) {
+    	this.name = name;
+    	this.hp = hp;
+    	this.school = school;
+    }
     
     
     

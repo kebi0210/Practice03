@@ -1,11 +1,10 @@
 package com.javaex.problem05;
 
 public class StringUtil {
-    
-    public static String concatString(){
-       
-        //메소드 내용작성
-        
-    }
 
+	public static String concatString(String[] strArray){
+		
+		return strArray[0]+strArray[1]+strArray[2];
+    
+	}
 }
